@@ -1,0 +1,32 @@
+heading Tag
+
+<h1>large heading</h1>
+<h2>   </h2>
+<h3>   </h3>
+<h4>   </h4>
+<h5>   </h5>
+<h6>small heading</h6>
+
+anchor tag
+
+<a href = " url"> click </a>
+
+<img src = ".png " alt = " " >
+
+<audio src = " .mp3" > </audio>
+
+<vedio src =".mp4" > 
+
+for caption use child <track>
+first, we make.Vtt file to link track
+
+<track 
+src = ".vtt"
+label = "English"
+kind ="captions"
+srclang = "en"
+default>
+
+</vedio>
+
+
